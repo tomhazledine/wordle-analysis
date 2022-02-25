@@ -1,0 +1,9 @@
+{
+    "name": "wordle-analysis",
+    "version": "1.0.0",
+    "description": "Some node scripts to analyse the words used by the game Wordle.",
+    "homepage": "https://tomhazledine.com/wordle-node-script",
+    "type": "module",
+    "author": "Tom Hazledine <tom@tomhazledine.com> (https://tomhazledine.com/)",
+    "license": "ISC"
+}
